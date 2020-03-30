@@ -1,0 +1,15 @@
+html,
+body {
+    height: 100%
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #edf2f7;
+}
+
+button {
+    width: 100%;
+}
